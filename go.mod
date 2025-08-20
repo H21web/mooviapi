@@ -1,10 +1,10 @@
-module mooviapi
+module filmigo-api
 
 go 1.21
 
 require (
 	github.com/gin-gonic/gin v1.10.0
-	github.com/Jisin0/filmigo v0.3.0
+	github.com/Jisin0/filmigo v0.2.5
 )
 
 require (
