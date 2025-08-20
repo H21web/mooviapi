@@ -1,4 +1,4 @@
-module filmigo-api
+module mooviapi
 
 go 1.21
 
